@@ -1,6 +1,6 @@
-### Hi! My name is Kyle Burton.
+### Hello world 👋 My name is Kyle Burton.
 
-I am obsessed with developing highly robust, easily maintainable, and distinctively readable software.
+Software Engineer passionate about delivering high quality, stable, scalable applications
 
 <!--
 **kburton-dev/kburton-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
